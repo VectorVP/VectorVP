@@ -29,4 +29,3 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=red&color=red)
 
 ![Stats Overview](https://raw.githubusercontent.com/VectorVP/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/VectorVP/github-stats-transparent/output/generated/languages.svg)
