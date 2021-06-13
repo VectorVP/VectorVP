@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Vlad and I'm a Deep Learning/Computer Vision engineer with passion to Medical AI.
 <!--
 **VectorVP/VectorVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=red&color=red)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=red&color=red)
+![](https://img.shields.io/badge/Framework-Pytorch-informational?style=flat&logo=pytorch&logoColor=red&color=red)
+![](https://img.shields.io/badge/Framework-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=red&color=red)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flask&logo=flask&logoColor=red&color=red)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=red&color=red)
+![](https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=opencv&logoColor=red&color=red)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=red&color=red)
