@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=ff522d&color=ff522d)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=ff522d&color=ff522d)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=VectorVP&hide_title=true&hide_border=true&show_icons=true&count_private=true&text_color=ff522d&bg_color=0d1117&icon_color=FF0000&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=VectorVP&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=ff522d&bg_color=0d1117&icon_color=FF0000&theme=dark" />
