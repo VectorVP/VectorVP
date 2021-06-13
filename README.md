@@ -1,6 +1,3 @@
-### Hi there 👋
-
-My name is Vlad and I'm a Deep Learning/Computer Vision engineer with passion to Medical AI.
 <!--
 **VectorVP/VectorVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
