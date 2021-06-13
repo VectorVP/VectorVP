@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=red&color=red)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=red&color=red)
 ![](https://img.shields.io/badge/Framework-Pytorch-informational?style=flat&logo=pytorch&logoColor=red&color=red)
