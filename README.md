@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=red&color=red)
 ![](https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=opencv&logoColor=red&color=red)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=red&color=red)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=red&color=red)
+![](https://img.shields.io/badge/Tools-Vim-informational?style=flat&logo=vim&logoColor=red&color=red)
