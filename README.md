@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flask&logo=flask&logoColor=red&color=red)
 ![](https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=opencv&logoColor=red&color=red)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=red&color=red)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=red&color=red)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=red&color=red)``
 
-![Stats Overview](https://raw.githubusercontent.com/VectorVP/github-stats-transparent/output/generated/overview.svg)
+<src="https://github-readme-stats.vercel.app/api?username=VectorVP&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=FF0000&icon_color=FF0000&theme=highcontrast" />
