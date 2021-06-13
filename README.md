@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=red&color=red)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=red&color=red)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=red&color=red)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=red&color=red)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=red&color=red)
 ![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=pytorch&logoColor=red&color=red)
 ![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=red&color=red)
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flask&logo=flask&logoColor=red&color=red)
